@@ -1,12 +1,37 @@
-#ETSII ULL Grado de Informatica 
-#Práctica:
+# Grado en Ingeniería Informática
+# Práctica: CSV (Comma Separated Values)
 
-#Comma Separated Values
+[![Build Status](https://travis-ci.org/Oscar-Dmc/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco.svg?branch=master)](https://travis-ci.org/Oscar-Dmc/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco)
 
-For more information look at:
+Durante el desarrollo de esta práctica se ha hecho uso de:
+* LocalStorage 
+* Underscore 
+* Gulp 
+* SASS 
+* Mocha y Chai 
+* Blanket 
+* Travis CI 
+* Karma 
+* Heroku 
+* Express 
 
-* La sección *Práctica: Comma Separated Values. CSV* de los [apuntes](http://crguezl.github.io/pl-html/node11.html)
-* La [descripción de la práctica](https://casianorodriguezleon.gitbooks.io/pl1516/content/practicas/csv.html)
-* See it working at [CSV en GitHub Pages](http://crguezl.github.io/csv/)
-* See also [CSV](http://en.wikipedia.org/wiki/Comma-separated_values) at Wikipedia.
+**Repositorio GitHub (organización)**
 
+* [Repositorio CSV](https://github.com/ULL-ESIT-GRADOII-PL/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco)
+
+**Repositorio GitHub (fork)**
+
+* [Repositorio CSV](https://github.com/Oscar-Dmc/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco)
+
+**Página de la práctica**
+
+* [Despliegue](http://ull-esit-gradoii-pl.github.io/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco/)
+
+**Despliegue en heroku**
+
+* [Heroku](https://csvoscarteguayco.herokuapp.com/)
+
+**Páginas de los desarrolladores**
+
+* [Web Teguayco Gutiérrez González](http://alu0100825503.github.io/)
+* [Web Óscar David  Martín Cabrera](http://oscar-dmc.github.io/)
